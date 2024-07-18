@@ -5,7 +5,7 @@
 <h3 align="center">🔭 I’m currently working on:</h3>
 <div align="center">
   <p><a href="https://github.com/lamasters/simplinote" target="_blank">SimpliNote</a> - an end-to-end encrypted notes app</p>
-  <p><a href="https://simplifeed.org" target="_blank">SimpliFeed</a> - an RSS news reader that gives you articles with no ads and AI summaries</p>
+  <p><a href="https://simplifeed.org" target="_blank">SimpliFeed</a> - an RSS news reader that gives you articles with AI summaries and no ads</p>
   <p><a href="https://entangledtabs.com" target="_blank">Entangled</a> - A website and chrome extension that lets you sync tabs between your devices</p>
 </div>
 
